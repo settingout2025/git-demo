@@ -18,3 +18,4 @@ hello git!!
 hello github!
 hello gitlab!
 hello gitee!
+hello all git!
